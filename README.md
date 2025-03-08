@@ -1,10 +1,6 @@
 
-# REVO-SEND
+# nb-SEND
 
-updated from time to time.  
-
-Last Updated: `Tuesday 22-10-2024 12:25:10 UTC`  
-Total Send Number: `Dependent Your Account`  
 
 
 - **REVO-PSTF**

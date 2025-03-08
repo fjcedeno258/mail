@@ -28,7 +28,7 @@ curl ifconfig.me
 
 - **TEST DELEVRY  **
 ```bash
-echo "Test email from REVO" | mail -s "Test Email" -r "YOUR-FROM@EXAMPLE.COM" YOUR-EMAIL@DOMAIN.COM
+echo "Test email from nbou" | mail -s "Test Email" -r "YOUR-FROM@EXAMPLE.COM" YOUR-EMAIL@DOMAIN.COM
 ```
 
 - **TLE9 SEND  **
